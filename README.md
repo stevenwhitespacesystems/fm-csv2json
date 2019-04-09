@@ -8,7 +8,7 @@
   <h3 align="center">fm-csv2json</h3>
 
   <p align="center">
-    An XML Parser that converts XML into JSON on the FileMaker Pro Platform.
+    A CSV Parser that converts CSV into JSON on the FileMaker Pro Platform.
     <br />
     <a href="https://github.com/stevenwhitespacesystems/fm-csv2json"><strong>Explore the docs »</strong></a>
     <br />
@@ -61,7 +61,7 @@
 
 I was browsing over at the FileMaker forums and came across a question about parsing CSV data.
 
-This got caught our interest and made us ask the question.
+This caught our interest and made us ask the question.
 
 > Could we take some CSV data and transform it into a valid JSON Object?
 
